@@ -1,1 +1,5 @@
-# praktikum-git-556330
+# Praktikum Git
+
+## Commit History
+
+![Git Log](Screenshot.png)
